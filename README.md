@@ -2,4 +2,4 @@
 
 Weekly scheduled presentation that contains learning.
 
-- Simplicity in Software Engineering
+- Simplicity in Software Engineering --Barış Çelik
