@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Netas Case Study
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: metehankara
+Implementation-Vendor-Id: com.springboot.case
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-r
+ eact/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
