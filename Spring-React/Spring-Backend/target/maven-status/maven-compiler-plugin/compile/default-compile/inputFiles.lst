@@ -1,0 +1,17 @@
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\model\School.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\service\InstructorServiceImpl.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\service\SchoolServiceImpl.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\controller\SchoolController.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\ServletInitializer.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\service\ISchoolService.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\controller\StudentController.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\repository\InstructorRepository.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\controller\InstructorController.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\model\Instructor.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\NetasApplication.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\service\IInstructorService.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\repository\StudentRepository.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\model\Student.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\SpringPrimeApplication.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\view\SchoolBean.java
+D:\EclipseProjects\netas\src\main\java\com\metehan\netas\repository\SchoolRepository.java
