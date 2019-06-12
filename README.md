@@ -10,3 +10,4 @@ Weekly scheduled presentation that contains learning.
 - React -- Metehan Kara
 - Rest Api Design -- Sinem Sevdik
 - Drools -- Çınar Günbatar
+- Model Based Testing -- Mert Albay
