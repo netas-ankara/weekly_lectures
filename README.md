@@ -12,4 +12,5 @@ Weekly scheduled presentation that contains learning.
 | React                                     | Metehan Kara              | 09.05.2019 | 
 | Rest Api Design                           | Sinem Sevdik              | 09.05.2019 | 
 | Drools                                    | Çınar Günbatar            | 09.05.2019 | 
+| Design Patterns							| Emre Yukarıkır            | 23.05.2019 |
 | Model Based Testing                       | Mert Albay                | 12.06.2019 | 
